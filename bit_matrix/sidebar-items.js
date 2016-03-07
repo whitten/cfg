@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["BITS","The number of bits in a block."]],"mod":[["matrix","Matrix of bits."],["submatrix","Submatrix of bits."]],"static":[["FALSE","A value for borrowing."],["TRUE","A value for borrowing."]],"type":[["Block","The type for storing bits."]]});
